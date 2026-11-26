@@ -1,5 +1,7 @@
 # Restauracja fast_food
 
+Link do repozytorium:  https://github.com/wbachanek17/Restauracja_fastfood
+
 Do restauracji w losowych momentach czasu wchodzą klienci. Część z nich (ok. 2%) nie robi
 zamówienia (klienci, którzy nie zrobili zamówienia mogą - ale nie muszą - skorzystać z łazienki).
 Pozostali kupują dania dostępne w menu. Każdy z klientów wybiera losową liczbę dań/napojów.
